@@ -1,2 +1,2 @@
 My first repository<br>
-Author: A H Joy
+Author: Afjol H Joy
